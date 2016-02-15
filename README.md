@@ -4,9 +4,6 @@
 Facebook SDK for PHP
 ====================
 
-[![Latest Stable Version](http://img.shields.io/badge/Latest%20Stable-4.0.23-blue.svg)](https://packagist.org/packages/facebook/php-sdk-v4)
-
-
 This repository contains the open source PHP SDK that allows you to access Facebook
 Platform from your PHP app.
 
@@ -74,19 +71,3 @@ and edit it to add your credentials.
 ```bash
 ./vendor/bin/phpunit
 ```
-
-
-Contributing
-------------
-
-For us to accept contributions you will have to first have signed the
-[Contributor License Agreement](https://developers.facebook.com/opensource/cla).
-
-When committing, keep all lines to less than 80 characters, and try to
-follow the existing style.
-
-Before creating a pull request, squash your commits into a single commit.
-
-Add the comments where needed, and provide ample explanation in the
-commit message.
-
